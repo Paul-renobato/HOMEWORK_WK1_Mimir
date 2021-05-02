@@ -30,6 +30,8 @@ body {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    display: flex;
+    flex-direction: row;
 }
 
 .header div ul {
