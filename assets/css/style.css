@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Added Display Felx and Flex direction flow */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -134,7 +134,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Changed the Background Colors */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -142,6 +142,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #10b48b;
     color: #ffffff;
+    display: block;
 }
 
 .online-reputation-management {
@@ -151,6 +152,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #10b48b;
     color: #ffffff;
+    display: block;
 }
 
 .social-media-marketing {
@@ -160,6 +162,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #10b48b;
     color: #ffffff;
+    display: block;
 }
 
 .search-engine-optimization img {
